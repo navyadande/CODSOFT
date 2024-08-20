@@ -158,22 +158,3 @@ View the Results:
 The game will display the ASCII art for both your choice and the computer's choice.
 The outcome (Win, Lose, or Draw) will be printed based on the game rules.
 
-*Example:*
-
-enter your choice: Type 0 for Rock, 1 for Paper, 2 for Scissors: 1
-    _______
----'   ____)____
-          ______)
-          _______)
-        _______)
----_________)
-
-Computer choice
-    _______
----'   ____)____
-          ______)
-       __________)
-       (____)
-----__(___)
-
-You Lose
